@@ -9,6 +9,10 @@ Extends [Soda Monokai][soda] with:
 * Additional syntax highlighting for markdown, LESS, coffee, diffs, and handlebars and more! 
 * Improved syntax highlighting for regular expressions, HTML, LESS, CSS, JavaScript and more!
 
+My additions:
+
+* Additional color scheme for [Seti_UI](https://packagecontrol.io/packages/Seti_UI) theme.
+
 <br>
 
 #### See: [examples ↓](#examples) | [before and after screenshots][ba]
